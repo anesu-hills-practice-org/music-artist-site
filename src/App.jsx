@@ -15,7 +15,7 @@ function App() {
           <h1 className="artist-name">NOVA BEATS</h1>
           <p className="tagline">Electronic Music Producer & DJ</p>
           <div className="cta-buttons">
-            <a href="#music" className="btn btn-primary">Listen Now</a>
+            <a href="#music" className="btn btn-primary"> Listen Now</a>
             <a href="#contact" className="btn btn-secondary">Get in Touch</a>
           </div>
         </div>
