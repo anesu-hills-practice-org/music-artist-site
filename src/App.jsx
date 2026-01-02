@@ -12,11 +12,11 @@ function App() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-content">
-          <h1 className="artist-name">NOVA BEATS</h1>
-          <p className="tagline">Electronic Music Producer & DJ</p>
+          <h1 className="artist-name">HILLZ ANESU</h1>
+          <p className="tagline">Hip Hop Music Producer & Rapper</p>
           <div className="cta-buttons">
-            <a href="#music" className="btn btn-primary"> Listen Now</a>
-            <a href="#contact" className="btn btn-secondary">Get in Touch</a>
+            <a href="#music" className="btn btn-primary"> Listen Right Now</a>
+            <a href="#contact" className="btn btn-secondary">Get in Touch Now</a>
           </div>
         </div>
       </section>
